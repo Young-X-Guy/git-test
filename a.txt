@@ -1,2 +1,4 @@
 新建文本
 add some message on this pc
+file a.txt add some message with github
+手动解决冲突

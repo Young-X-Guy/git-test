@@ -2,4 +2,5 @@
 add some message on this pc
 file a.txt add some message with github
 手动解决冲突
+github 造成冲突
 pc 造成冲突

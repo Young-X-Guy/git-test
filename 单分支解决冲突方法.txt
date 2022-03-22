@@ -1,0 +1,10 @@
+当远程版本高于本地版本时直接提交会报错出现冲突
+解决方法：
+1. git add .
+2. git commit -m "提交本地代码"
+3. git pull
+4. 对比冲突文件 git diff
+5. 手动修改冲突文件
+6. git add .
+7. git commit -m "解决冲突"
+8. git push
